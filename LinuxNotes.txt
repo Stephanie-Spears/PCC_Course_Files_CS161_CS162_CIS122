@@ -1,0 +1,162 @@
+cd desktop/shell -- go to directory
+ls -- lists files in the current folder
+history -- shows all commands you've made
+cntrl r --allows you to search the history for a specific thing
+exit or cntr d -- ends session
+unzip filename.zip --unzips files
+cat filename.txt -- reads files to terminal (usually short files)
+by typing 'tab' the shell will autocomplete things for you, like filenames.
+
+wc filename.txt -- this is the word count program. It lists lines, words, and bites
+dif filename.txt filename_draft.txt -- this compares files and tells you how they differ
+this is useful if you have multiple versions of the same file and want to see what changes have been made.
+the < icon points in the direction of the file that includes the change. 
+
+"cowsay" is a program with several options. if you type cowsay Hello World! it will show a cow that says Hello World!
+cowsay -e ^^ Hello Again! --this will give him carrets for eyes
+cowsay -f tux Tux is Linux\'s mascot! --will draw a pinguin
+
+ALL common shell programs come with a manual. Manual entries are called man pages.
+man cowsay -- brings up the cowsay program's manual.
+
+Man pages have a common format.
+NAME: PROGRAM'S NAME AND BREIF DESCRIPTION
+SYNOPSIS: EXPLAINS HOW TO USE THE COMMAND'S FLAGS AND ARGUMENTS.
+OPTIONS SURROUNDED BY BRACKETS ARE OPTIONAL.
+SOME OPTIONS REQUIRE ADDITIONAL INFORMATION. EX: IF YOU USE THE -E FLAG, YOU ALSO NEED TO SUPPLY "EYE_STRING"
+DESCRIPTION: EXPLAINS HOW TO USE THE OPTIONS IN DETAIL.
+
+doing long listing (ls -l) shows more information on the files/directories.
+Files are listed as -
+Directories are listed as d (for directory)
+
+ctrl c quits out of a program, while ctrl d is an end of file marker
+useful for things like line based programs.
+
+Different programs require different end commands, like "exit" ctrl d, ctrl c, or "quit" 
+
+When reading long files, some shortcuts: D or space bar will page down, U will page up, > will skip to the last line, < will skip to the first line, you can also type in a line number
+there is also a search, /searchterm, use n to skip to the next occurance, N will go back to the previous occurance. Search terms are case sensitive
+
+
+EDITING FILES
+
+you can edit texts in terminals, using programs like vim or nano (built into ubuntu)
+To enter vim or nano you type vim filename.txt or nano filename.txt
+
+In the shell, if you use a filename with special characters, like Great Filename!, you need to write it as 'Great Filename!' with single quotes (quoting) or as Great\ Filename\! (escaping)
+
+Linux only has one root file, as opposed to windows which has C: or D:
+Root's path is referred to as /
+
+~/ is shorthand for "home directory" which is based on what user you are, like "stephanie"
+
+pwd means print working directory
+cd is change directory
+cd .. will move you up the directory tree to the parent directory
+
+in the terminal cd / will change directory to root
+cd ~ (tilde) will change to home directory
+~ in the path is shorthand for "root/home/user"
+
+
+Typing just cd by itself just takes you to your home directory
+
+Ubuntu's terminal commands are case sensitive
+
+
+moving files or renaming files: mv filename newfilename
+copying files: cp filename newfilename
+changing file destination cp or mv /filelocation/filename /newfilelocation/newfilename
+
+creat is to create a new filename: creat filename
+
+rmdir -r filename will remove the directory file and all files inside of it
+
+curl -o is for downloading a file from the web
+
+globbing is pattern matching--it's basically like using "find," but less specific. Like if you use *.jpg it'll show every file name that ends in .jpg. You can use a star at the beginning or the end of the file you want to match.
+
+Globbing example...
+ls app* will find anything that starts with app. 
+ls *s will find anything that ends with s
+ls *pp* will find anything that has pp in the middle or anywhere of the file name
+ls b*png will find anything that starts with a b and ends with a png
+
+there are other patterns you can search for as well. case sensitive
+
+
+
+copy all the files in the "www" directory that end in "html" to the "backup" directory
+ex: cp www/*html backup
+
+list all the files that end in "jpg" or "png" in the current directory
+ex: ls *{jpg,png} OR ls *jpg *png OR ls *{jp,pn}g
+
+print "short names:" followed by all the one-character filenames in the current directory
+ex: echo Short names: ?
+
+
+
+Command	Meaning
+ls	list files and directories
+ls -a	list all files and directories
+mkdir	make a directory
+cd directory	change to named directory
+cd	change to home-directory
+cd ~	change to home-directory
+cd ..	change to parent directory
+pwd	display the path of the current directory
+
+
+
+Command	Meaning
+cp file1 file2	copy file1 and call it file2
+mv file1 file2	move or rename file1 to file2
+rm file	remove a file
+rmdir directory	remove a directory
+cat file	display a file
+less file	display a file a page at a time
+head file	display the first few lines of a file
+tail file	display the last few lines of a file
+grep 'keyword' file	search a file for keywords
+wc file	count number of lines/words/characters in file
+
+
+Command	Meaning
+command > file	redirect standard output to a file
+command >> file	append standard output to a file
+command < file	redirect standard input from a file
+command1 | command2	pipe the output of command1 to the input of command2
+cat file1 file2 > file0	concatenate file1 and file2 to file0
+sort	sort data
+who	list users currently logged in
+
+
+
+Command	Meaning
+*	match any number of characters
+?	match one character
+man command	read the online manual page for a command
+whatis command	brief description of a command
+apropos keyword	match commands with keyword in their man pages
+
+Command	Meaning
+ls -lag	list access rights for all files
+chmod [options] file	change access rights for named file
+command &	run command in background
+^C	kill the job running in the foreground
+^Z	suspend the job running in the foreground
+bg	background the suspended job
+jobs	list current jobs
+fg %1	foreground job number 1
+kill %1	kill job number 1
+ps	list current processes
+kill 26152	kill process number 26152
+
+
+COMPILING
+
+to compile a .cpp file into an executable, you need to type:
+g++ -g FileName.cpp -o FileNameExectable
+

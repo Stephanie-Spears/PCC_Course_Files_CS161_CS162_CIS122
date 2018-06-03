@@ -1,0 +1,27 @@
+commands to know
+
+
+to check teacher's file contents
+cd /home/inst/lliang/cs162/proficiencyTestPractice/final
+
+
+TO COPY THE FILES THEREIN
+cp /home/inst/lliang/cs162/proficiencyTestPractice/final/{main.cpp,list.h,list.cpp,supplied.o} ~stephanie.spears1/cs162/Final
+
+
+TO CHECK FOR A MEMORY LEAK
+valgrind --leak-check=yes ./project5
+
+TO TAR A PROJECT (AFTER REMOVING THE EXECUTABLE)
+tar -cvf project5.tar project5
+
+TO EMAIL A TAR PROJECT
+mailx -a project5.tar lliang stephanie.spears1
+
+
+TO MAKE A SIMPLE MAKEFILE
+all:
+	g++ -g Main.cpp SongList.cpp InputTools.cpp Main.h SongList.h InputTools.h -o proj5
+
+clean:
+	rm proj5

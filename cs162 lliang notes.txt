@@ -1,0 +1,46 @@
+Hello Stephanie,
+
+Please remember that final exam is due soon, not the end of the week. Module 10 should tell you the chapters covered.
+
+Let's talk more about pointers this week. Here is a list of things you can think about:
+
+1. what exactly is in an array name like array1 and array2 in the following statement?
+
+int array1[10]; or int * array2 = new int[10];
+
+2. the meaning of the [] and pointer arithmetic
+
+array[3] is equivalent to *(array+3)
+
+3. array of arrays
+
+char ** names;
+
+4. array of linked lists
+
+Node ** arrayOfLinkedLists;
+
+In most of the cases, we don't keep objects in arrays or linked lists, instead we keep pointers to objects:
+
+array of pointers to objects:
+
+Data ** list = new Data*[CAPCITY];
+
+why? What are the advantages and disadvantages?
+
+linked lists of pointers to objects:
+
+struct Node
+
+{
+
+    Data * data;
+
+     Node * next;
+
+};
+
+Node *head, *tail;
+
+Have fun and good luck with your final exam!
+-Li
