@@ -1,0 +1,10 @@
+
+[ 23, 92, 22, 16, 65, 39, 30, 6, 81, 20 ]
+
+sum of array is: 394
+
+enter a target number to delete: after remove function: 
+
+
+[ 92, 22, 16, 65, 39, 30, 6, 81, 20 ]
+
