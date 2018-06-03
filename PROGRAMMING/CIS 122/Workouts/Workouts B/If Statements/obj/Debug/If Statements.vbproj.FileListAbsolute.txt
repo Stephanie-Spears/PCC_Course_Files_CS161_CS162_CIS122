@@ -1,0 +1,11 @@
+G:\Teaching\CIS122\Projects\Visual Basic\If Statements\bin\Debug\IfStatement.exe.config
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts B\If Statements\bin\Debug\IfStatement.exe.config
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts B\If Statements\bin\Debug\IfStatement.exe
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts B\If Statements\bin\Debug\IfStatement.pdb
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts B\If Statements\bin\Debug\IfStatement.xml
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts B\If Statements\obj\Debug\IfStatement.frmMain.resources
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts B\If Statements\obj\Debug\IfStatement.Resources.resources
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts B\If Statements\obj\Debug\If Statements.vbproj.GenerateResource.Cache
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts B\If Statements\obj\Debug\IfStatement.exe
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts B\If Statements\obj\Debug\IfStatement.xml
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts B\If Statements\obj\Debug\IfStatement.pdb

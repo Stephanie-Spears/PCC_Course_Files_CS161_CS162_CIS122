@@ -1,0 +1,10 @@
+G:\CIS122\Projects\Visual Basic\Add2Numbers\bin\Release\ProjectStart.exe.config
+G:\CIS122\Projects\Visual Basic\Add2Numbers\bin\Release\ProjectStart.exe
+G:\CIS122\Projects\Visual Basic\Add2Numbers\bin\Release\ProjectStart.pdb
+G:\CIS122\Projects\Visual Basic\Add2Numbers\bin\Release\ProjectStart.xml
+G:\CIS122\Projects\Visual Basic\Add2Numbers\obj\Release\ProjectStart.frmMain.resources
+G:\CIS122\Projects\Visual Basic\Add2Numbers\obj\Release\ProjectStart.Resources.resources
+G:\CIS122\Projects\Visual Basic\Add2Numbers\obj\Release\Add2Numbers.vbproj.GenerateResource.Cache
+G:\CIS122\Projects\Visual Basic\Add2Numbers\obj\Release\ProjectStart.exe
+G:\CIS122\Projects\Visual Basic\Add2Numbers\obj\Release\ProjectStart.xml
+G:\CIS122\Projects\Visual Basic\Add2Numbers\obj\Release\ProjectStart.pdb

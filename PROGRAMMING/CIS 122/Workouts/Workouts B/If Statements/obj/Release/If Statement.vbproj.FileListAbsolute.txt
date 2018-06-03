@@ -1,0 +1,10 @@
+G:\Teaching\CIS122\Projects\Visual Basic\If Statement\bin\Release\IfStatement.exe.config
+G:\Teaching\CIS122\Projects\Visual Basic\If Statement\bin\Release\IfStatement.exe
+G:\Teaching\CIS122\Projects\Visual Basic\If Statement\bin\Release\IfStatement.pdb
+G:\Teaching\CIS122\Projects\Visual Basic\If Statement\bin\Release\IfStatement.xml
+G:\Teaching\CIS122\Projects\Visual Basic\If Statement\obj\Release\IfStatement.frmMain.resources
+G:\Teaching\CIS122\Projects\Visual Basic\If Statement\obj\Release\IfStatement.Resources.resources
+G:\Teaching\CIS122\Projects\Visual Basic\If Statement\obj\Release\If Statement.vbproj.GenerateResource.Cache
+G:\Teaching\CIS122\Projects\Visual Basic\If Statement\obj\Release\IfStatement.exe
+G:\Teaching\CIS122\Projects\Visual Basic\If Statement\obj\Release\IfStatement.xml
+G:\Teaching\CIS122\Projects\Visual Basic\If Statement\obj\Release\IfStatement.pdb

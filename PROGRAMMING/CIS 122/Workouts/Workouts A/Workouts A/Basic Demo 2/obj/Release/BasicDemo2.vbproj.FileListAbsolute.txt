@@ -1,0 +1,31 @@
+G:\CIS122\Projects\Visual Basic\Basic Demo 2\bin\Release\BasicDemo2.exe.config
+G:\CIS122\Projects\Visual Basic\Basic Demo 2\bin\Release\BasicDemo2.exe
+G:\CIS122\Projects\Visual Basic\Basic Demo 2\bin\Release\BasicDemo2.pdb
+G:\CIS122\Projects\Visual Basic\Basic Demo 2\bin\Release\BasicDemo2.xml
+G:\CIS122\Projects\Visual Basic\Basic Demo 2\obj\Release\BasicDemo2.frmMain.resources
+G:\CIS122\Projects\Visual Basic\Basic Demo 2\obj\Release\BasicDemo2.Resources.resources
+G:\CIS122\Projects\Visual Basic\Basic Demo 2\obj\Release\BasicDemo2.vbproj.GenerateResource.Cache
+G:\CIS122\Projects\Visual Basic\Basic Demo 2\obj\Release\BasicDemo2.exe
+G:\CIS122\Projects\Visual Basic\Basic Demo 2\obj\Release\BasicDemo2.xml
+G:\CIS122\Projects\Visual Basic\Basic Demo 2\obj\Release\BasicDemo2.pdb
+G:\Teaching\CIS122\Projects\Visual Basic\Basic Demo 2\bin\Release\BasicDemo2.exe.config
+G:\Teaching\CIS122\Projects\Visual Basic\Basic Demo 2\obj\Release\BasicDemo2.exe
+G:\Teaching\CIS122\Projects\Visual Basic\Basic Demo 2\obj\Release\BasicDemo2.xml
+G:\Teaching\CIS122\Projects\Visual Basic\Basic Demo 2\obj\Release\BasicDemo2.pdb
+G:\Teaching\CIS122\Projects\Visual Basic\Basic Demo 2\bin\Release\BasicDemo2.exe
+G:\Teaching\CIS122\Projects\Visual Basic\Basic Demo 2\bin\Release\BasicDemo2.pdb
+G:\Teaching\CIS122\Projects\Visual Basic\Basic Demo 2\bin\Release\BasicDemo2.xml
+G:\Teaching\CIS122\Projects\Visual Basic\Basic Demo 2\obj\Release\BasicDemo2.frmMain.resources
+G:\Teaching\CIS122\Projects\Visual Basic\Basic Demo 2\obj\Release\BasicDemo2.Resources.resources
+G:\Teaching\CIS122\Projects\Visual Basic\Basic Demo 2\obj\Release\BasicDemo2.vbproj.GenerateResource.Cache
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts A\Workouts A\Basic Demo 2\bin\Release\BasicDemo2.exe.config
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts A\Workouts A\Basic Demo 2\obj\Release\BasicDemo2.exe
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts A\Workouts A\Basic Demo 2\obj\Release\BasicDemo2.xml
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts A\Workouts A\Basic Demo 2\obj\Release\BasicDemo2.pdb
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts A\Workouts A\Basic Demo 2\bin\Release\BasicDemo2.exe
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts A\Workouts A\Basic Demo 2\bin\Release\BasicDemo2.pdb
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts A\Workouts A\Basic Demo 2\bin\Release\BasicDemo2.xml
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts A\Workouts A\Basic Demo 2\obj\Release\BasicDemo2.frmMain.resources
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts A\Workouts A\Basic Demo 2\obj\Release\BasicDemo2.Resources.resources
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts A\Workouts A\Basic Demo 2\obj\Release\BasicDemo2.vbproj.GenerateResource.Cache
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts A\Workouts A\Basic Demo 2\obj\Release\BasicDemo2.vbprojResolveAssemblyReference.cache

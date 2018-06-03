@@ -1,0 +1,24 @@
+G:\CIS122\Projects\Visual Basic\CalcGrade\bin\Debug\ProjectStart.exe.config
+G:\CIS122\Projects\Visual Basic\CalcGrade\bin\Debug\ProjectStart.exe
+G:\CIS122\Projects\Visual Basic\CalcGrade\bin\Debug\ProjectStart.pdb
+G:\CIS122\Projects\Visual Basic\CalcGrade\bin\Debug\ProjectStart.xml
+G:\CIS122\Projects\Visual Basic\CalcGrade\obj\Debug\ProjectStart.frmMain.resources
+G:\CIS122\Projects\Visual Basic\CalcGrade\obj\Debug\ProjectStart.Resources.resources
+G:\CIS122\Projects\Visual Basic\CalcGrade\obj\Debug\CalcGrade.vbproj.GenerateResource.Cache
+G:\CIS122\Projects\Visual Basic\CalcGrade\obj\Debug\ProjectStart.exe
+G:\CIS122\Projects\Visual Basic\CalcGrade\obj\Debug\ProjectStart.xml
+G:\CIS122\Projects\Visual Basic\CalcGrade\obj\Debug\ProjectStart.pdb
+G:\CIS122\Projects\Visual Basic\CalcGrade - boolean\bin\Debug\ProjectStart.exe.config
+G:\CIS122\Projects\Visual Basic\CalcGrade - boolean\obj\Debug\ProjectStart.exe
+G:\CIS122\Projects\Visual Basic\CalcGrade - boolean\obj\Debug\ProjectStart.xml
+G:\CIS122\Projects\Visual Basic\CalcGrade - boolean\obj\Debug\ProjectStart.pdb
+G:\CIS122\Projects\Visual Basic\CalcGrade - boolean\bin\Debug\ProjectStart.exe
+G:\CIS122\Projects\Visual Basic\CalcGrade - boolean\bin\Debug\ProjectStart.pdb
+G:\CIS122\Projects\Visual Basic\CalcGrade - boolean\bin\Debug\ProjectStart.xml
+G:\CIS122\Projects\Visual Basic\CalcGrade - boolean\obj\Debug\ProjectStart.frmMain.resources
+G:\CIS122\Projects\Visual Basic\CalcGrade - boolean\obj\Debug\ProjectStart.Resources.resources
+G:\CIS122\Projects\Visual Basic\CalcGrade - boolean\obj\Debug\CalcGrade.vbproj.GenerateResource.Cache
+G:\CIS122\Projects\Visual Basic\CalcGrade - loops\bin\Debug\ProjectStart.exe.config
+G:\CIS122\Projects\Visual Basic\CalcGrade - loops\obj\Debug\ProjectStart.exe
+G:\CIS122\Projects\Visual Basic\CalcGrade - loops\obj\Debug\ProjectStart.xml
+G:\CIS122\Projects\Visual Basic\CalcGrade - loops\obj\Debug\ProjectStart.pdb

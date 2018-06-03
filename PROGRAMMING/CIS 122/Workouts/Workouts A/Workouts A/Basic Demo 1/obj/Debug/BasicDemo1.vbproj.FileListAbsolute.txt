@@ -1,0 +1,34 @@
+G:\CIS122\Projects\Visual Basic\Basic Demo 1\bin\Debug\BasicDemo1.exe.config
+G:\CIS122\Projects\Visual Basic\Basic Demo 1\bin\Debug\BasicDemo1.exe
+G:\CIS122\Projects\Visual Basic\Basic Demo 1\bin\Debug\BasicDemo1.pdb
+G:\CIS122\Projects\Visual Basic\Basic Demo 1\bin\Debug\BasicDemo1.xml
+G:\CIS122\Projects\Visual Basic\Basic Demo 1\obj\Debug\BasicDemo1.frmMain.resources
+G:\CIS122\Projects\Visual Basic\Basic Demo 1\obj\Debug\BasicDemo1.Resources.resources
+G:\CIS122\Projects\Visual Basic\Basic Demo 1\obj\Debug\BasicDemo1.vbproj.GenerateResource.Cache
+G:\CIS122\Projects\Visual Basic\Basic Demo 1\obj\Debug\BasicDemo1.exe
+G:\CIS122\Projects\Visual Basic\Basic Demo 1\obj\Debug\BasicDemo1.xml
+G:\CIS122\Projects\Visual Basic\Basic Demo 1\obj\Debug\BasicDemo1.pdb
+G:\Teaching\CIS122\Projects\Visual Basic\Basic Demo 1\bin\Debug\BasicDemo1.exe.config
+G:\Teaching\CIS122\Projects\Visual Basic\Basic Demo 1\obj\Debug\BasicDemo1.exe
+G:\Teaching\CIS122\Projects\Visual Basic\Basic Demo 1\obj\Debug\BasicDemo1.xml
+G:\Teaching\CIS122\Projects\Visual Basic\Basic Demo 1\obj\Debug\BasicDemo1.pdb
+G:\Teaching\CIS122\Projects\Visual Basic\Basic Demo 1\bin\Debug\BasicDemo1.exe
+G:\Teaching\CIS122\Projects\Visual Basic\Basic Demo 1\bin\Debug\BasicDemo1.pdb
+G:\Teaching\CIS122\Projects\Visual Basic\Basic Demo 1\bin\Debug\BasicDemo1.xml
+G:\Teaching\CIS122\Projects\Visual Basic\Basic Demo 1\obj\Debug\BasicDemo1.frmMain.resources
+G:\Teaching\CIS122\Projects\Visual Basic\Basic Demo 1\obj\Debug\BasicDemo1.Resources.resources
+G:\Teaching\CIS122\Projects\Visual Basic\Basic Demo 1\obj\Debug\BasicDemo1.vbproj.GenerateResource.Cache
+G:\Teaching\CIS122\Blackboard\Workouts\Workouts A\Basic Demo 1\bin\Debug\BasicDemo1.exe.config
+G:\Teaching\CIS122\Blackboard\Workouts\Workouts A\Basic Demo 1\obj\Debug\BasicDemo1.exe
+G:\Teaching\CIS122\Blackboard\Workouts\Workouts A\Basic Demo 1\obj\Debug\BasicDemo1.xml
+G:\Teaching\CIS122\Blackboard\Workouts\Workouts A\Basic Demo 1\obj\Debug\BasicDemo1.pdb
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts A\Workouts A\Basic Demo 1\bin\Debug\BasicDemo1.exe.config
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts A\Workouts A\Basic Demo 1\obj\Debug\BasicDemo1.exe
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts A\Workouts A\Basic Demo 1\obj\Debug\BasicDemo1.xml
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts A\Workouts A\Basic Demo 1\obj\Debug\BasicDemo1.pdb
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts A\Workouts A\Basic Demo 1\bin\Debug\BasicDemo1.exe
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts A\Workouts A\Basic Demo 1\bin\Debug\BasicDemo1.pdb
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts A\Workouts A\Basic Demo 1\bin\Debug\BasicDemo1.xml
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts A\Workouts A\Basic Demo 1\obj\Debug\BasicDemo1.frmMain.resources
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts A\Workouts A\Basic Demo 1\obj\Debug\BasicDemo1.Resources.resources
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts A\Workouts A\Basic Demo 1\obj\Debug\BasicDemo1.vbproj.GenerateResource.Cache

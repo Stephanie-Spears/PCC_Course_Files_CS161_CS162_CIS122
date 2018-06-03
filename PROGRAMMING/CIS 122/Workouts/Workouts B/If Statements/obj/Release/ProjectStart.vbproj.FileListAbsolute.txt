@@ -1,0 +1,14 @@
+G:\Teaching\CIS122\Projects\ProjectStart\bin\Release\ProjectStart.exe.config
+G:\Teaching\CIS122\Projects\ProjectStart\bin\Release\ProjectStart.exe
+G:\Teaching\CIS122\Projects\ProjectStart\bin\Release\ProjectStart.pdb
+G:\Teaching\CIS122\Projects\ProjectStart\bin\Release\ProjectStart.xml
+G:\Teaching\CIS122\Projects\ProjectStart\obj\Release\ProjectStart.frmMain.resources
+G:\Teaching\CIS122\Projects\ProjectStart\obj\Release\ProjectStart.Resources.resources
+G:\Teaching\CIS122\Projects\ProjectStart\obj\Release\ProjectStart.vbproj.GenerateResource.Cache
+G:\Teaching\CIS122\Projects\ProjectStart\obj\Release\ProjectStart.exe
+G:\Teaching\CIS122\Projects\ProjectStart\obj\Release\ProjectStart.xml
+G:\Teaching\CIS122\Projects\ProjectStart\obj\Release\ProjectStart.pdb
+G:\Teaching\CIS122\Projects\Visual Basic\If Statement\bin\Release\ProjectStart.exe.config
+G:\Teaching\CIS122\Projects\Visual Basic\If Statement\obj\Release\ProjectStart.exe
+G:\Teaching\CIS122\Projects\Visual Basic\If Statement\obj\Release\ProjectStart.xml
+G:\Teaching\CIS122\Projects\Visual Basic\If Statement\obj\Release\ProjectStart.pdb

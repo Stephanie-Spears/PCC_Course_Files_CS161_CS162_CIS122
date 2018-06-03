@@ -1,0 +1,40 @@
+E:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName\obj\Debug\MakeFullName.vbproj.GenerateResource.Cache
+E:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName\bin\Debug\MakeFullName.exe.config
+E:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName\bin\Debug\MakeFullName.exe
+E:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName\bin\Debug\MakeFullName.pdb
+E:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName\bin\Debug\MakeFullName.xml
+E:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName\obj\Debug\MakeFullName.frmMain.resources
+E:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName\obj\Debug\MakeFullName.Resources.resources
+E:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName\obj\Debug\MakeFullName.exe
+E:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName\obj\Debug\MakeFullName.xml
+E:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName\obj\Debug\MakeFullName.pdb
+G:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName\bin\Debug\MakeFullName.exe.config
+G:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName\obj\Debug\MakeFullName.exe
+G:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName\obj\Debug\MakeFullName.xml
+G:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName\obj\Debug\MakeFullName.pdb
+G:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName\bin\Debug\MakeFullName.exe
+G:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName\bin\Debug\MakeFullName.pdb
+G:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName\bin\Debug\MakeFullName.xml
+G:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName\obj\Debug\MakeFullName.frmMain.resources
+G:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName\obj\Debug\MakeFullName.Resources.resources
+G:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName\obj\Debug\MakeFullName.vbproj.GenerateResource.Cache
+G:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName - V2\bin\Debug\MakeFullName.exe.config
+G:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName - V2\obj\Debug\MakeFullName.exe
+G:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName - V2\obj\Debug\MakeFullName.xml
+G:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName - V2\obj\Debug\MakeFullName.pdb
+G:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName - V2\bin\Debug\MakeFullName.exe
+G:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName - V2\bin\Debug\MakeFullName.pdb
+G:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName - V2\bin\Debug\MakeFullName.xml
+G:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName - V2\obj\Debug\MakeFullName.frmMain.resources
+G:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName - V2\obj\Debug\MakeFullName.Resources.resources
+G:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName - V2\obj\Debug\MakeFullName.vbproj.GenerateResource.Cache
+G:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName - V3\bin\Debug\MakeFullName.exe.config
+G:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName - V3\obj\Debug\MakeFullName.exe
+G:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName - V3\obj\Debug\MakeFullName.xml
+G:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName - V3\obj\Debug\MakeFullName.pdb
+G:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName - V3\bin\Debug\MakeFullName.exe
+G:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName - V3\bin\Debug\MakeFullName.pdb
+G:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName - V3\bin\Debug\MakeFullName.xml
+G:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName - V3\obj\Debug\MakeFullName.frmMain.resources
+G:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName - V3\obj\Debug\MakeFullName.Resources.resources
+G:\Teaching\CIS122\Projects\Visual Basic\Functions - MakeFullName - V3\obj\Debug\MakeFullName.vbproj.GenerateResource.Cache

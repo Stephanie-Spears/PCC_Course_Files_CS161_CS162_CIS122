@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+</head>
+<body>
+<p>-- Intro</p>
+<p>This is the introduction lesson to our online labs. The purpose of the<br />online labs is to give you practice using linux tools for building and<br />debugging SW. This is a valuable skill to learn for multiple<br />reasons. Students who intend to transfer to PSU will need to be<br />proficient with linux programming toosl. In the workforce having<br />linux/unix skills is an advantage since it gives you the ability to<br />work on multiple systems.</p>
+<p>In this lesson we will learn:</p>
+<p>- how to login to the linux system<br />- how to change your password<br />- how to list files in a directory/folder<br />- how to make a new directory/folder<br />- how to change your current directory/folder</p>
+<p>-- Logging in</p>
+<p>For this class we have access to a linux system called "syccuxas01".<br />Each of you has a user account set up on this machine. We will use<br />free software called "putty" to access this system.</p>
+<p>Step 1: Download putty</p>
+<p>Windows users can download putty.exe here:<br />http://the.earth.li/~sgtatham/putty/latest/x86/putty.exe</p>
+<p>If you are not using Windows you can use google to find a putty<br />download for your system. Once you download putty you just need to<br />store the putty.exe file somewhere on your system. There is no<br />installer for this.</p>
+<p>Step 2: Run putty</p>
+<p>Once you have putty downloaded and saved somewhere on your disk you<br />can double-click on it to run it. When you run it your Windows system<br />will probably warn you that this is not signed software. It's ok.<br />The first window that comes up is the "PuTTY Configuration" window.<br />Find the "Host Name" box. Enter "syccuxas01.pcc.edu" into this box<br />(without the quotes). Make sure that the Port is set to "22" and the<br />Connection Type is "SSH". After you have entered this information go<br />to the "Saved Sessions" box and type in "PCC AS". Then press the<br />"Save" button. Now you will see "PCC AS" in the list of saved<br />sessions. Now click the "Open" button. The first time putty runs it<br />will pop up a security dialog. You can accept this. Now go to the<br />next step.</p>
+<p>Step 3: Logging in</p>
+<p>You should be looking at a black colored window with text that says<br />"login as: ". This is the login prompt. putty is waiting for you to<br />type in your username and password (I'll tell you these below. It is<br />not your mypcc username/password combination). THE USERNAME AND<br />PASSWORD ARE CASE SENSITIVE!!! You will need to type in your username<br />then press return. Next you will need to type in your password. The<br />password characters will not show while you type them. Be careful in<br />typing them so that you get them right. After typing your password<br />press Enter. If you are successful you will see text like:</p>
+<p>"Last login: Thu Feb 26 19:52:22 2015 from c-73-37-82-225.hsd1.or.comcast.net"</p>
+<p>followed by a line that says something like:</p>
+<p>"mike.noel@syccuxas01:~&gt;"</p>
+<p>This will obviously have your username, not mine. If you made it this<br />far then congratulations. You logged in!!!</p>
+<p>Before telling you your username and password let me give you one<br />warning. If you fail to login correctly three times in a row then<br />your account will be locked out for a certain amount of time. This is<br />an antihacking security measure. They don't expect you to get your<br />password wrong that many times in a row. If this happens to you let<br />me know and I'll try to unlock you.</p>
+<p>Ok. Now the details.</p>
+<p>username -- your pcc username. For me this is mike.noel.<br />password -- your G number with a capital G</p>
+<p>Go ahead and try this out now.</p>
+<p>After you have successfully logged in you can move to the next step.</p>
+<p>Note: most of you will take too long to read this and the system that<br />you started in Step 2 will timeout before you have a chance to login.<br />In that case just close the putty window and run putty again. Then<br />connect to the server again. If you saved the session like I<br />recommended above you can just double click on "PCC AS" in the session<br />list. Otherwise you'll need to enter the server name again.</p>
+<p>-- Changing your password</p>
+<p>Since everyone has the same password it is not good to leave your<br />password alone. The first thing you should do when you first login to<br />the system (just the first time) is change your password. You do this<br />by entering the command "passwd" at the prompt.</p>
+<p>Just type "passwd" and press Enter.</p>
+<p>The system will ask you to enter your current password. Do that.<br />Then press Enter. Then it will ask for a new password. Type<br />something in. Then it will ask to repeat it. Remember, when you type<br />passwords in linux they don't show up on the screen. After you have<br />pressed the last enter it should tell you that your password was<br />successfully changed.</p>
+<p>Don't forget your new password. Remember, if you fail to login three<br />times in a row then your account is locked.</p>
+<p>-- Listing files in the current folder</p>
+<p>Once you are logged in you can type "ls" to list the files in your<br />current directory. Go ahead and try that. You'll see just a couple<br />files and directories.</p>
+<p>-- Making new directories</p>
+<p>You can make a new directory using the "mkdir" command. You have to<br />provide a new name too. So type "mkdir labs" and press Enter. After<br />doing this list the files again (remember: ls). You should see a new<br />entry in the list called "labs".</p>
+<p>-- Changing the current directory</p>
+<p>When you are logged in via putty you are always in a "current<br />directory". You can change your current directory with the "cd"<br />command. You type "cd labs" and pretty Enter. This will put you in<br />the "labs" directory that you made in the steps above. Notice that<br />your command prompt also changed to show your current directory.</p>
+<p>Now make a new directory for "lab01" inside the "labs"<br />directory. (Hint: "mkdir lab01")</p>
+</body>
+</html>

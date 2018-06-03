@@ -1,0 +1,14 @@
+G:\CIS122\Projects\Visual Basic\ProjectStart\bin\Debug\ProjectStart.exe.config
+G:\CIS122\Projects\Visual Basic\ProjectStart\bin\Debug\ProjectStart.exe
+G:\CIS122\Projects\Visual Basic\ProjectStart\bin\Debug\ProjectStart.pdb
+G:\CIS122\Projects\Visual Basic\ProjectStart\bin\Debug\ProjectStart.xml
+G:\CIS122\Projects\Visual Basic\ProjectStart\obj\Debug\ProjectStart.frmMain.resources
+G:\CIS122\Projects\Visual Basic\ProjectStart\obj\Debug\ProjectStart.Resources.resources
+G:\CIS122\Projects\Visual Basic\ProjectStart\obj\Debug\ProjectStart.vbproj.GenerateResource.Cache
+G:\CIS122\Projects\Visual Basic\ProjectStart\obj\Debug\ProjectStart.exe
+G:\CIS122\Projects\Visual Basic\ProjectStart\obj\Debug\ProjectStart.xml
+G:\CIS122\Projects\Visual Basic\ProjectStart\obj\Debug\ProjectStart.pdb
+G:\CIS122\Projects\Visual Basic\CalcGrade\bin\Debug\ProjectStart.exe.config
+G:\CIS122\Projects\Visual Basic\CalcGrade\obj\Debug\ProjectStart.exe
+G:\CIS122\Projects\Visual Basic\CalcGrade\obj\Debug\ProjectStart.xml
+G:\CIS122\Projects\Visual Basic\CalcGrade\obj\Debug\ProjectStart.pdb

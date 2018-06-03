@@ -1,0 +1,4 @@
+G:\Teaching\CIS122\Projects\Visual Basic\Loops\bin\Debug\ProjectStart.exe.config
+G:\Teaching\CIS122\Projects\Visual Basic\Loops\obj\Debug\ProjectStart.exe
+G:\Teaching\CIS122\Projects\Visual Basic\Loops\obj\Debug\ProjectStart.xml
+G:\Teaching\CIS122\Projects\Visual Basic\Loops\obj\Debug\ProjectStart.pdb

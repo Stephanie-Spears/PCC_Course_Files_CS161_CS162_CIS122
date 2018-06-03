@@ -1,0 +1,21 @@
+G:\Teaching\CIS122\Projects\Visual Basic\Loops\bin\Debug\Loops.exe.config
+G:\Teaching\CIS122\Projects\Visual Basic\Loops\bin\Debug\Loops.exe
+G:\Teaching\CIS122\Projects\Visual Basic\Loops\bin\Debug\Loops.pdb
+G:\Teaching\CIS122\Projects\Visual Basic\Loops\bin\Debug\Loops.xml
+G:\Teaching\CIS122\Projects\Visual Basic\Loops\obj\Debug\Loops.frmMain.resources
+G:\Teaching\CIS122\Projects\Visual Basic\Loops\obj\Debug\Loops.Resources.resources
+G:\Teaching\CIS122\Projects\Visual Basic\Loops\obj\Debug\Loops.vbproj.GenerateResource.Cache
+G:\Teaching\CIS122\Projects\Visual Basic\Loops\obj\Debug\Loops.exe
+G:\Teaching\CIS122\Projects\Visual Basic\Loops\obj\Debug\Loops.xml
+G:\Teaching\CIS122\Projects\Visual Basic\Loops\obj\Debug\Loops.pdb
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts C\Loops\bin\Debug\Loops.exe.config
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts C\Loops\obj\Debug\Loops.exe
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts C\Loops\obj\Debug\Loops.xml
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts C\Loops\obj\Debug\Loops.pdb
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts C\Loops\bin\Debug\Loops.exe
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts C\Loops\bin\Debug\Loops.pdb
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts C\Loops\bin\Debug\Loops.xml
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts C\Loops\obj\Debug\Loops.vbprojResolveAssemblyReference.cache
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts C\Loops\obj\Debug\Loops.frmMain.resources
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts C\Loops\obj\Debug\Loops.Resources.resources
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts C\Loops\obj\Debug\Loops.vbproj.GenerateResource.Cache

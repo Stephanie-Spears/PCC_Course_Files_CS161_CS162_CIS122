@@ -1,0 +1,29 @@
+G:\Teaching\CIS122\Projects\ProjectStart\bin\Release\ProjectStart.exe.config
+G:\Teaching\CIS122\Projects\ProjectStart\bin\Release\ProjectStart.exe
+G:\Teaching\CIS122\Projects\ProjectStart\bin\Release\ProjectStart.pdb
+G:\Teaching\CIS122\Projects\ProjectStart\bin\Release\ProjectStart.xml
+G:\Teaching\CIS122\Projects\ProjectStart\obj\Release\ProjectStart.frmMain.resources
+G:\Teaching\CIS122\Projects\ProjectStart\obj\Release\ProjectStart.Resources.resources
+G:\Teaching\CIS122\Projects\ProjectStart\obj\Release\ProjectStart.vbproj.GenerateResource.Cache
+G:\Teaching\CIS122\Projects\ProjectStart\obj\Release\ProjectStart.exe
+G:\Teaching\CIS122\Projects\ProjectStart\obj\Release\ProjectStart.xml
+G:\Teaching\CIS122\Projects\ProjectStart\obj\Release\ProjectStart.pdb
+C:\Users\Stephanie\Desktop\CIS 122\ProjectStart\ProjectStart\bin\Release\ProjectStart.exe.config
+C:\Users\Stephanie\Desktop\CIS 122\ProjectStart\ProjectStart\obj\Release\ProjectStart.exe
+C:\Users\Stephanie\Desktop\CIS 122\ProjectStart\ProjectStart\obj\Release\ProjectStart.xml
+C:\Users\Stephanie\Desktop\CIS 122\ProjectStart\ProjectStart\obj\Release\ProjectStart.pdb
+C:\Users\Stephanie\Desktop\CIS 122\ProjectStart\ProjectStart\bin\Release\ProjectStart.exe
+C:\Users\Stephanie\Desktop\CIS 122\ProjectStart\ProjectStart\bin\Release\ProjectStart.pdb
+C:\Users\Stephanie\Desktop\CIS 122\ProjectStart\ProjectStart\bin\Release\ProjectStart.xml
+C:\Users\Stephanie\Desktop\CIS 122\ProjectStart\ProjectStart\obj\Release\ProjectStart.frmMain.resources
+C:\Users\Stephanie\Desktop\CIS 122\ProjectStart\ProjectStart\obj\Release\ProjectStart.Resources.resources
+C:\Users\Stephanie\Desktop\CIS 122\ProjectStart\ProjectStart\obj\Release\ProjectStart.vbproj.GenerateResource.Cache
+C:\Users\Stephanie\Desktop\CIS 122\ProjectStart\ProjectStart\obj\Release\ProjectStart.vbprojResolveAssemblyReference.cache
+C:\Users\Stephanie\Desktop\CIS 122\ProjectStart\ProjectStart CASH REGISTER LAB B\bin\Release\ProjectStart.exe.config
+C:\Users\Stephanie\Desktop\CIS 122\ProjectStart\ProjectStart CASH REGISTER LAB B\obj\Release\ProjectStart.exe
+C:\Users\Stephanie\Desktop\CIS 122\ProjectStart\ProjectStart CASH REGISTER LAB B\obj\Release\ProjectStart.xml
+C:\Users\Stephanie\Desktop\CIS 122\ProjectStart\ProjectStart CASH REGISTER LAB B\obj\Release\ProjectStart.pdb
+C:\Users\Stephanie\Desktop\CIS 122\ProjectStart\CASH REGISTER Lab B\bin\Release\ProjectStart.exe.config
+C:\Users\Stephanie\Desktop\CIS 122\ProjectStart\CASH REGISTER Lab B\obj\Release\ProjectStart.exe
+C:\Users\Stephanie\Desktop\CIS 122\ProjectStart\CASH REGISTER Lab B\obj\Release\ProjectStart.xml
+C:\Users\Stephanie\Desktop\CIS 122\ProjectStart\CASH REGISTER Lab B\obj\Release\ProjectStart.pdb
