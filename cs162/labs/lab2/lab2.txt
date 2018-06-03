@@ -1,0 +1,9 @@
+List of bugs in Lab2: 
+
+The program needed to include cstring.
+In main and the function determineGrade, it was misspelled "determinGrade".
+There was a misplaced semicolon at the last else if statement in determineGrade.
+
+Other than that, it seemed to compile fine.
+all: 
+	g++ app.cpp -g -o app

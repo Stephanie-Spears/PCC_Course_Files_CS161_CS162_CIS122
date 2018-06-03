@@ -1,0 +1,28 @@
+
+bool insert(int val, int intList[], int& size)
+{
+	intList[size] = val;
+	
+	for (int i = 0; i < size; i++)
+	{
+		if (val == intList[i])
+		{
+			return false;
+		}
+		else if (val < intList[i])
+		{
+			intList[i + 1] = intList[i];
+			intList[i] = val;
+		}
+	}
+	size = size + 1;
+
+	return true;
+}
+
+[ ]
+
+[ 4 10 25 40 ]
+the list doesn't have 5
+
+[ 25 ]
