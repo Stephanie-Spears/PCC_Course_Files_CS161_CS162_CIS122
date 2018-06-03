@@ -1,0 +1,54 @@
+-- Lab04 Readme
+
+For this lab we are going to get more practice writing and compiling programs
+on linux. The purpose is to gain experience using a text editor and the
+compiler.  It is assumed that you have already done all previous lab
+exercises.
+
+-- Setup
+
+Use the instructions in the previous lessions to create a new directory called
+"lab04" in your "labs" directory.  After you have created the directory make
+sure that you "go into" the "lab04" directory (Hint: "go into x" means "change
+your current directory to x").
+
+-- Creating a bar chart
+
+Your program for this lab exercise will create a horizontal bar chart.  The
+program will prompt the user to enter 5 integers and then display those values
+as a bar chart.  The program should make sure that the integers that the user
+enters are between 0 and 10, inclusive.
+
+This is an example run of how your program should work:
+
+Enter a number between 0 and 10 (inclusive):10
+Enter a number between 0 and 10 (inclusive):9
+Enter a number between 0 and 10 (inclusive):0
+Enter a number between 0 and 10 (inclusive):1
+Enter a number between 0 and 10 (inclusive):-1
+Invalid value.  Try again.
+Enter a number between 0 and 10 (inclusive):5
+**********
+*********
+
+*
+*****
+
+The program needs to have at least three functions: getValue(), printRow(),
+main().  The getValue() function will prompt the user to enter a value and
+make sure it is in the proper range.  It will return the value.  The
+printRow() function will take in a value and print a row containing "value"
+number of "*" characters.  The main() function will be the main driver for
+calling the getValue() and printRow() functions.
+
+-- Lab completion
+
+To show that you have completed the lab you need to turn in the assignment
+using the "turnin" program.  The command to turn in your file is
+"~mike.noel/bin/turnin cs161 filename".  Replace "filename" with the actual
+name of your file.  This command only generates output if there is an error.  
+
+
+
+
+
